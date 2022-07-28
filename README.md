@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/binary-code-computer-background-polygon-data-security-protection-abstract-technology-java-coding-many-uses-advertising-book-191129296.jpg)](https://www.dreamstime.com)
+[![MasterHead](http://www.cs.cmu.edu/~woden/images/gun.gif)](http://www.cs.cmu.edu)
 
 <h1 align="center">Hi 👋, I'm Walid blm</h1>
 <h3 align="center">I am a beginner desktop app developer</h3>
