@@ -8,13 +8,13 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/walidchamseen" target="blank"><img src="https://img.shields.io/twitter/follow/walidchamseen?logo=twitter&style=for-the-badge" alt="walidchamseen" /></a> </p>
+<p align="left"> <a href="https://twitter.com/W_NeverBackDown" target="blank"><img src="https://img.shields.io/twitter/follow/walidchamseen?logo=twitter&style=for-the-badge" alt="walidchamseen" /></a> </p>
 
 - I’m currently learning **cpp and c language and Matlab for creating small application that can help people in real life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/walidchamseen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walidchamseen" height="30" width="40" /></a>
+<a href="https://twitter.com/W_NeverBackDown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="W_NeverBackDown" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
