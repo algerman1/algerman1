@@ -1,7 +1,7 @@
 [![MasterHead](http://www.cs.cmu.edu/~woden/images/gun.gif)](http://www.cs.cmu.edu)
 
-<h1 align="center">Hi 👋, I'm Walid blm</h1>
-<h3 align="center">I am a beginner desktop app developer</h3>
+<h1 align="center">Hi there 👋, I'm Walid </h1>
+<h3 align="center">I am a new desktop app developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
